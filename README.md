@@ -1,5 +1,5 @@
-# XMR-Miner-XMR-Stak-0-donation-level
-AMD\CPU XMR miner no Donation wasnt compiled with Nvidia drivers installed - if you wish you can download the main files and run as this includes the old Nvidia .dll and with some tinkering you can get this to work - i personally can not be bothered as i am not running Nvidia miners.
+# Crpyto-Miner-Crypto-Stak-0-donation-level
+AMD\CPU miner no Donation wasnt compiled with Nvidia drivers installed - if you wish you can download the main files and run as this includes the old Nvidia .dll and with some tinkering you can get this to work - i personally can not be bothered as i am not running Nvidia miners.
 This has been pulled from thew NEW XMR-Stak 2.4.5
 
 
@@ -8,8 +8,6 @@ I love learning and this was my first time compiling code - I still feel donatio
 2% i feel is alot due to how many people use teh actual software (No dont take this away from them - but HIGH elec, HIGH pc prices in some countries 2% is alot of profit for some)
 
 Feel free to drop me a donation if you so to wish: I am slowly working my way to understanding and possibly creating my own standalone miner :)
-
-Original Creators: fireice-uk's and psychocrypt's
 
 XMR-Stak - Monero/Aeon All-in-One Mining Software
 
@@ -31,13 +29,13 @@ By default the miner will donate 2% of the hashpower (2 minute in 100 minutes) t
 
 If you want to donate directly to support further development, here is my wallet
 
-fireice-uk:
-
-4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk psychocrypt:
-
-43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
-
-Pr3d: 4BEX1gceBy2VVbGfqry6zeSrKXnp4kEVRhtExdTM4HrdHPXUmkPkSXm5MeBDMFLVQkXXBfUbsj7hUSjG4hVzqUpcUCw74T2
+4BEX1gceBy2VVbGfqry6zeSrKXnp4kEVRhtExdTM4HrdHPXUmkPkSXm5MeBDMFLVQkXXBfUbsj7hUSjG4hVzqUpcUCw74T2 (XMR)
+1DcJPccBWR8ver7NNyXHDzj5kMEfQiyKM3 (BTC)
+0x3e534163DE045c2Af35e552CE0A0F41C0Bd2bCE4 (Eth)
+0x0F7A441E43af8a79c74E089550A206cdb3441F27 (ETC)
+0x0F7A441E43af8a79c74E089550A206cdb3441F27 (LTC)
+0x0F7A441E43af8a79c74E089550A206cdb3441F27 (dash)
+0x0F7A441E43af8a79c74E089550A206cdb3441F27 (Zcash)
 
 Checksums
 
