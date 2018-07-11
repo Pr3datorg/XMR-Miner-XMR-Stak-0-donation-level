@@ -30,11 +30,17 @@ By default the miner will donate 2% of the hashpower (2 minute in 100 minutes) t
 If you want to donate directly to support further development, here is my wallet
 
 4BEX1gceBy2VVbGfqry6zeSrKXnp4kEVRhtExdTM4HrdHPXUmkPkSXm5MeBDMFLVQkXXBfUbsj7hUSjG4hVzqUpcUCw74T2 (XMR)
+
 1DcJPccBWR8ver7NNyXHDzj5kMEfQiyKM3 (BTC)
+
 0x3e534163DE045c2Af35e552CE0A0F41C0Bd2bCE4 (Eth)
+
 0x0F7A441E43af8a79c74E089550A206cdb3441F27 (ETC)
+
 0x0F7A441E43af8a79c74E089550A206cdb3441F27 (LTC)
+
 0x0F7A441E43af8a79c74E089550A206cdb3441F27 (dash)
+
 0x0F7A441E43af8a79c74E089550A206cdb3441F27 (Zcash)
 
 Checksums
