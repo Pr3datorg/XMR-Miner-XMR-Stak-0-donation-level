@@ -1,6 +1,7 @@
 # XMR-Miner-XMR-Stak-0-donation-level
-AMD XMR miner no Donation
-This has been pulled from thew NEW XMR-Stak
+AMD\CPU XMR miner no Donation wasnt compiled with Nvidia drivers installed - if you wish you can download the main files and run as this includes the old Nvidia .dll and with some tinkering you can get this to work - i personally can not be bothered as i am not running Nvidia miners.
+This has been pulled from thew NEW XMR-Stak 2.4.5
+
 
 I love learning and this was my first time compiling code - I still feel donations should be made to the creators.
 
